@@ -1,0 +1,5 @@
+rootProject.name='TestSdk'
+
+include ':app'
+include ':testlib'
+include ':innerlib'
