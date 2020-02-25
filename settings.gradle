@@ -1,3 +1,4 @@
 rootProject.name='KindApp'
 
 include ':kind-app'
+includeBuild './TestSdk'
