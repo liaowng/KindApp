@@ -1,0 +1,3 @@
+[submodule "InnerLib"]
+	path = innerlib
+	url = https://github.com/liaowng/InnerLib.git
